@@ -16,3 +16,15 @@ http://localhost:4000/api/notes
 
 http://localhost:3000
 
+Tecnologias utilizadas:
+
+frontend: react, react router, axios, boostrap, css
+backend: node, express, mongodb, nodemon, mongoose
+
+Lo que me hubiese gustado hacer si tendria mas tiempo:
+- hacer responsive el diseño.
+- haber desarrollado la funcionalidad de activar o desactivar la tarea.
+- realizar los tests con jest.
+- haber hecho los deploys.
+
+
