@@ -6,13 +6,13 @@ Pasos para ver el proyecto:
 
 2) luego de hacer descomprimido la carpeta zip, ir al comando hasta la carpeta backend y luego escribir <strong>"npm install"</strong> 
 
-3) para correr la app backend escribir: "nodemon src/index". 
+3) para correr la app backend escribir:<strong> "nodemon src/index". </strong>
 
 http://localhost:4000/api/notes
 
-4) abrir una nueva ventana de la linea de comandos para ir a la carpeta frontend, escribir npm install.
+4) abrir una nueva ventana de la linea de comandos para ir a la carpeta frontend, escribir <strong> npm install.</strong>
 
-5) para correr la app frontend: "npm run start"
+5) para correr la app frontend: <strong>"npm run start"</strong>
 
 http://localhost:3000
 
