@@ -18,7 +18,7 @@ http://localhost:3000
 
 Tecnologias utilizadas:
 
-frontend: react, react router, axios, boostrap, css
+frontend: react, react router, axios, boostrap, css <br>
 backend: node, express, mongodb, nodemon, mongoose
 
 Lo que me hubiese gustado hacer si tendria mas tiempo:
