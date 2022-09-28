@@ -27,4 +27,4 @@ Lo que me hubiese gustado hacer si tendria mas tiempo:
 - realizar los tests con jest.
 - haber hecho los deploys.
 
-
+Cantidad de horas invertidas para hacer este challenge: 9 horas
