@@ -4,7 +4,7 @@ Pasos para ver el proyecto:
 
 1) descargar el proyecto mediante zip
 
-2) luego de hacer descomprimido la carpeta zip, ir al comando hasta la carpeta backend y luego escribir "npm install" 
+2) luego de hacer descomprimido la carpeta zip, ir al comando hasta la carpeta backend y luego escribir <strong>"npm install"</strong> 
 
 3) para correr la app backend escribir: "nodemon src/index". 
 
